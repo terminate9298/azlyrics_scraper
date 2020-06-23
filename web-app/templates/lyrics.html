@@ -1,0 +1,15 @@
+{% extends "template.html" %}
+{% block main %}
+<main role="main" class="container">
+  <div class="row">
+    <div class="col-10 blog-main">
+      <div class="blog-post">
+        <h2 class="blog-post-title">{{data[0]['song_name']}}</h2>
+        <p class="blog-post-meta">Singer - <a href="{{url_for('singer' , singer_name = data[0]['singer'])}}">{{data[0]['singer']}}</a></p>
+        <pre>{{data[0]['lyrics']}}</pre>
+        <hr>
+      </div>
+    </div><!-- /.blog-main -->
+  </div><!-- /.row -->
+</main><!-- /.container -->
+{% endblock %}

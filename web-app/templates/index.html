@@ -1,0 +1,29 @@
+{% extends "template.html" %}
+
+{% block main %}
+<main role="main" class="container">
+  <div class="row">
+    <div class="col-md-10 blog-main">
+      <div class="blog-post">
+        <h2 class="blog-post-title">How to use Website</h2>
+
+        <p>We currently have database to 20K English Songs. We Provide Free API Access to our Database .You can download the songs from here. Feel Free to contact us for any Support.</p>
+        <hr>
+        <p>Here is how you can use our site</p>
+        <pre>
+          <code>/lyrics/call/song_name  - Replace song_name with your Song name</code>
+          <code>/lyrics/id/song_id  - Replace song_id with your Song ID</code>
+          <code>/lyrics/id/singer_name - Replace singer_name with your Singer Name </code>
+          <code>/lyrics/search/search_text - Replace singer_name with your Singer Name </code></pre>
+        <hr>
+        <h3>API Access</h3>
+        <p>Here is how you can use our API's</p>
+        <pre>
+          <code>/api/lyrics/call/song_name  - Replace song_name with your Song name</code>
+          <code>/api/lyrics/id/song_id  - Replace song_id with your Song ID</code>
+          <code>/api/lyrics/id/singer_name - Replace singer_name with your Singer Name </code>
+          <code>/api/lyrics/search/search_text - Replace singer_name with your Singer Name </code></pre>
+    </div><!-- /.blog-main -->
+  </div><!-- /.row -->
+</main><!-- /.container -->
+{% endblock %}
