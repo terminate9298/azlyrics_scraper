@@ -1,22 +1,17 @@
 # azlyrics_scraper
 The Python Webscraper to scrap AZLyrics.com using BeautifulSoup and concepts of  Concurrent Programing  and Request Rotation.
 
-Complete Tutorial for this Project is Medium
-Tutorial 1 — Introduction
+### Complete Tutorial for this Project is on Medium:
 
-In Previous Tutorials , we Understood Basic Concept of Web Scraping and Created Simple function to Extract lyrics from page using requests and BeautifulSoup.
-Tutorial 2 — Rotating Requests with Pool of Header and Proxies in Python.
+* [Tutorial 1 — Introduction](https://medium.com/@kaus.pathak_30409/beginner-to-advance-web-scraping-guide-in-python-799ffd367067)
 
-To Create a Bigger Project which can scrap thousands of Pages from the Internet You need more Clear Work Environment by using the concepts of OOP and Inheritance. You also need to have more Detailed Knowledge of Header Pooling and Proxy Pooling to remain Anonymous from the Server which we Already covered in the Second part of This Tutorial.
-Tutorial 3 — Work Environment and Asynchronous I/O Programming
+* [Tutorial 2 — Rotating Requests with Pool of Header and Proxies in Python.](https://medium.com/analytics-vidhya/beginner-to-advance-web-scraping-guide-in-python-ba24dca5dce0)
 
-We will do Asynchronous I/O Programming to Increase your Scrapping speed Which will be covered in Third part of this Tutorial.
-Tutorial 4 — Automated Site Scraping
+* [Tutorial 3 — Work Environment and Asynchronous I/O Programming](https://medium.com/@kaus.pathak_30409/beginner-to-advance-web-scraping-guide-in-python-introduction-to-asynchronous-programming-24bce03dafa7)
 
-With all the concepts studied in previous Tutorial , we will create actual Automated Scraper to download and save lyrics from web page in Forth part of this Tutorial.
-Tutorial 5 — API Access
+* [Tutorial 4 — Automated Site Scraping](https://medium.com/@kaus.pathak_30409/beginner-to-advance-web-scraping-guide-in-python-automated-lyrics-scraper-809163f279a1)
 
-To easily access the Lyrics from the internet , We will Create Flask API and front end to access our Scrapped Lyrics in Fifth Part of this Tutorial.
-Tutorial 6 — Host our Flask server on Heroku
+* [Tutorial 5 — API Access](https://medium.com/analytics-vidhya/beginner-to-advance-web-scraping-guide-in-python-build-and-deploy-a-python-web-app-using-flask-202ffdf8fd40)
 
-To provide Easy Access of Lyrics we will host our Flask Server over Heroku.
+* [Tutorial 6 — Host our Flask server on Heroku](https://medium.com/@kaus.pathak_30409/beginner-to-advance-web-scraping-guide-in-python-deploy-a-python-web-app-using-flask-and-a0e3cc8ce9f6)
+
