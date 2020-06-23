@@ -1,6 +1,6 @@
 # azlyrics_scraper
-The Python Webscraper to scrap AZLyrics.com using BeautifulSoup and concepts of  Concurrent Programing  and Request Rotation.
-
+* The Python Webscraper to scrap AZLyrics.com using BeautifulSoup and concepts of  Concurrent Programing  and Request Rotation.
+* Web App create Flask app with Postgresql database
 ### Complete Tutorial for this Project is on Medium:
 
 * [Tutorial 1 — Introduction](https://medium.com/@kaus.pathak_30409/beginner-to-advance-web-scraping-guide-in-python-799ffd367067)
